@@ -1,0 +1,18 @@
+.wrapper{
+ background-color:black;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: calc(100vh - 7rem);
+ flex-direction: column;
+}
+div{
+ width: 180px;
+ height: 180px;
+ justify-content: center;
+ align-items: center;
+ display: flex;
+ flex-direction: column;
+color: white;
+}
